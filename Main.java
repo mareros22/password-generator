@@ -7,7 +7,7 @@ import java.awt.*;
 
 
 /*
-PasswordGenerator.java
+PasswordGenerator
 - Generates random password based on user input-specified length
 - Passwords include randomly generated upper and lower case letters,
     random number and random special character
